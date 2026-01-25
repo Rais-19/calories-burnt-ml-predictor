@@ -2,7 +2,7 @@ Calories Burnt Predictor API & Web App
 A modern, beginner-friendly full-stack machine learning project that predicts the number of calories burnt during exercise using an XGBoost regression model.
 The project includes a FastAPI backend for predictions + a beautiful Streamlit frontend for easy user interaction.
 
-Features
+Features:
 
 Accurate calorie prediction using real exercise data (age, gender, height, weight, duration, heart rate, body temperature)
 Clean REST API built with FastAPI (automatic interactive docs at /docs)
