@@ -1,4 +1,21 @@
-Calories Burnt Predictor API & Web App
+# Calories Burnt Prediction API :
+
+
+## Live App
+
+**Interactive Demo (Streamlit UI)**  
+➜ https://calories-burnt-ml-predictor-k1p6.onrender.com
+
+
+**API Endpoint (FastAPI backend)**  
+
+- OpenAPI docs: https://calories-burnt-ml-predictor.onrender.com/docs
+- Health check: https://calories-burnt-ml-predictor.onrender.com
+
+# Calories Burnt Revenue Prediction
+Project Overview
+
+
 A modern, beginner-friendly full-stack machine learning project that predicts the number of calories burnt during exercise using an XGBoost regression model.
 The project includes a FastAPI backend for predictions + a beautiful Streamlit frontend for easy user interaction.
 
